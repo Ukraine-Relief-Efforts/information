@@ -4,26 +4,26 @@ It is known that these reception points will offer meals and medical care, as we
 Contact Hotline: <a href="tel:++48477217575">+48 47 721 75 75</a><br>
 Receive Refugee Status: [Open Here](https://www.refworld.org/pdfid/46726b102.pdf)<br>
 > __Dorohusk - Reception point__: Suchodolski Palace Communal Culture and Tourism Center, ul. Parkowa 5, 22-175 Dorohusk
-![Overview Image](Images/dorohusk.png)
+![Overview Image](assets/images/dorohusk.png)
 As stated in [Polish News](https://polishnews.co.uk/russias-attack-on-ukraine-reception-points-at-the-polish-ukrainian-border-how-does-the-reception-point-in-dorohusk-work/): _refugees are given water and something to eat. Each packed lunch includes a sandwich, yoghurt and fruit_. 
 
 > __Zosin - Reception point__: School Complex in Horodło, ul. Piłsudskiego 58, 22-523 Horodło
-![Overview Image](Images/zosin.png)
+![Overview Image](assets/images/zosin.png)
 
 > __Dołhobyczów - Reception point__: Border Culture and Recreation Center, ul. Spółdzielcza 8, 22-540 Dołhobyczów
-![Overview Image](Images/dolhobyczow.png)
+![Overview Image](assets/images/dolhobyczow.png)
 
 > __Hrebenne- Reception point__: Primary School in Lubycza Królewska (back of the sports hall), ul. Jana III Sobieskiego 5, 22-680 Lubycza Królewska
-![Overview Image](Images/hrebenne.png)
+![Overview Image](assets/images/hrebenne.png)
 
 > __Budomierz - Reception point__: Primary School in Krowica Sama 183, 37-625 Krowica Sama
-![Overview Image](Images/budomierz.png)
+![Overview Image](assets/images/budomierz.png)
 
 > __Korczowa - Reception point__: Common room, Korczowa 155, 37-552 Korczowa
-![Overview Image](Images/korczowa.png)
+![Overview Image](assets/images/korczowa.png)
 
 > __Medyka - Reception point__: Sports Centre - Medyka 285, 37-732 Medyka
-![Overview Image](Images/medyka.png)
+![Overview Image](assets/images/medyka.png)
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1QS1ShBfikQHKH-xF2CjEdB45FVaLm6Nb&ehbc=2E312F" width="600" height="200"></iframe>
 
